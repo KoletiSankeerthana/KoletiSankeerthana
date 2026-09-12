@@ -27,7 +27,7 @@
 
 - 🎓 **B.Tech (4th Year) - Computing and Data Science, Sai University**
 - 🤖 AI Engineer focused on **Agentic AI, Enterprise AI, LLM Applications, RAG Systems and Backend Development**
-- 🚀 Currently building **Autonomous Enterprise Compliance AI**
+- 🚀 Currently building **AI-Powered Personalized Healthcare Diagnosis & Doctor Consultation Platform**
 - 🧠 Interested in AI Infrastructure, Intelligent Automation and Multi-Agent Systems
 - 💡 Passionate about solving real-world problems through scalable AI systems
 
