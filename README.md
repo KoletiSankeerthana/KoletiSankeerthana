@@ -200,18 +200,16 @@ LangGraph • MCP • FastAPI • RAG • AI Agents
 
 </p>
 
-<br>
-
-<h2 align="center">📈 Contribution Graph</h2>
+## 📈 GitHub Contributions
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<br>
-
+  <a href="https://github.com/KoletiSankeerthana">
+    <img
+      src="https://ghchart.rshah.org/58A6FF/KoletiSankeerthana"
+      alt="Koleti Sankeerthana GitHub Contribution Graph"
+      width="90%"
+    />
+  </a>
 
 </p>
 
