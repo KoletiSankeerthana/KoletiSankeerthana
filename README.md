@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
   Hi 👋, I'm Koleti Sankeerthana
 </h1>
 
@@ -170,45 +170,48 @@ LangGraph • MCP • FastAPI • RAG • AI Agents
 </p>
 ---
 
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
+<table align="center">
+<tr>
 
----
+<td width="50%">
 
-## 🔥 GitHub Streak
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
+</td>
 
----
+<td width="50%">
 
-## 📈 GitHub Contributions
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/58A6FF/KoletiSankeerthana"
-    alt="Koleti Sankeerthana GitHub Contributions"
-    width="90%"
-  />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+
 </p>
 
----
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<br>
+
 
 </p>
 
