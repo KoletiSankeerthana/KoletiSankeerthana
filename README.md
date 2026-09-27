@@ -168,26 +168,8 @@ LangGraph • MCP • FastAPI • RAG • AI Agents
 <img src="https://skillicons.dev/icons?i=git,github"/>
 
 </p>
----
 
-## 📊 GitHub Analytics
 
-<table align="center">
-<tr>
-
-<td width="50%">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</td>
-
-<td width="50%">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
-
-</td>
-
-</tr>
 </table>
 
 <br>
@@ -199,20 +181,6 @@ LangGraph • MCP • FastAPI • RAG • AI Agents
 <img width="70%" src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-## 📈 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/KoletiSankeerthana">
-    <img
-      src="https://ghchart.rshah.org/58A6FF/KoletiSankeerthana"
-      alt="Koleti Sankeerthana GitHub Contribution Graph"
-      width="90%"
-    />
-  </a>
-
-</p>
-
 
 <h2 align="center">🤝 Let's Connect</h2>
 
