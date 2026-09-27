@@ -235,5 +235,5 @@
 
 
 <p align="center">
-<i>⭐ Building Autonomous Enterprise AI Systems • Always learning, always building.</i>
+<i> Always learning, always building.</i>
 </p>
